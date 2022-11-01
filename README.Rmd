@@ -1,9 +1,9 @@
 ---
 output: github_document
 params:
-  turma: 202102-intro-programacao
-  nome_curso: ATUALIZANDO....
-  download_material: 'TRUE'
+  turma: 202305-r4ds-3
+  nome_curso: R para Ciência de Dados III
+  download_material: 'FALSE'
 ---
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->

@@ -6,6 +6,10 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
 {% seo %}
+    <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
+    <!--[if lt IE 9]>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
+    <![endif]-->
   </head>
   <body>
     <div class="wrapper">
@@ -17,7 +21,7 @@
         <p>{{ site.description | default: site.github.project_tagline }}</p>
 
         <ul class="downloads">
-          <li><a href="https://curso-r.github.io/{{ site.github.repository_name }}/curso.zip">Baixe o <strong>Material</strong></a></li>
+          <li><a href="https://curso-r.github.io/{{site.github.repository_name}}/curso.zip">Baixe o <strong>Material</strong></a></li>
           <li><a href="{{ site.github.repository_url }}">Ver no <strong>GitHub</strong></a></li>
           <li><a href="https://curso-r.com">Mais <strong>Cursos</strong></a></li>
         </ul>
@@ -31,5 +35,6 @@
         <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
       </footer>
     </div>
+    <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
   </body>
 </html>

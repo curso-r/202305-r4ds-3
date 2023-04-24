@@ -1,4 +1,3 @@
 theme: jekyll-theme-minimal
-logo: assets/logo.png
 title: R para Ciência de Dados III
-show_downloads: false
+description: Repositório da turma de 05/2023 do R para Ciência de Dados III

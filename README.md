@@ -13,9 +13,10 @@
 
 ## Slides
 
-| Slide                                                                                             |
-|:--------------------------------------------------------------------------------------------------|
-| [00_introducao.html](https://curso-r.github.io/202305-r4ds-3/materiais/slides/00_introducao.html) |
+| Slide                                                                                               |
+|:----------------------------------------------------------------------------------------------------|
+| [00_introducao.html](https://curso-r.github.io/202305-r4ds-3/materiais/slides/00_introducao.html)   |
+| [01_organizacao.html](https://curso-r.github.io/202305-r4ds-3/materiais/slides/01_organizacao.html) |
 
 ## Exemplos de Aula
 
@@ -35,8 +36,20 @@ Referências extras relacionadas com o conteúdos das aulas, ou materiais
 que comentamos quando tiramos dúvidas (não necessariamente são
 relacionadas com o conteúdo da aula).
 
-| Aula | Tema | Descrição | Link |
-|:-----|:-----|:----------|:-----|
+    #> Warning: One or more parsing issues, call `problems()` on your data frame for details,
+    #> e.g.:
+    #>   dat <- vroom(...)
+    #>   problems(dat)
+
+| Aula | Tema              | Descrição                                                                                     | Link                                                                         |
+|-----:|:------------------|:----------------------------------------------------------------------------------------------|:-----------------------------------------------------------------------------|
+|    1 | Ambiente          | Colinha do RStudio                                                                            | <https://raw.githubusercontent.com/rstudio/cheatsheets/main/rstudio-ide.pdf> |
+|    1 | Ambiente          | Zen do R: capítulo sobre .RData e .Rhistory                                                   | <https://curso-r.github.io/zen-do-r/rdata-rhistory.html>                     |
+|    1 | Ambiente          | Beautiful R: capítulo sobre ambiente <https://curso-r.github.io/beautiful-r/environment.html> | NA                                                                           |
+|    1 | Fluxo de trabalho | Zen do R: capítulo sobre Rproj                                                                | <https://curso-r.github.io/zen-do-r/rproj-dir.html>                          |
+|    1 | Fluxo de trabalho | Beautiful R: capítulo sobre projetos                                                          | <https://curso-r.github.io/beautiful-r/r-projects.html>                      |
+|    1 | Fluxo de trabalho | R for Data Science (2e): capítulo sobre workflow                                              | <https://r4ds.hadley.nz/workflow-scripts.html>                               |
+|    1 | Fluxo de trabalho | R for Data Science (2e): capítulo sobre estilo                                                | <https://r4ds.hadley.nz/workflow-style.html>                                 |
 
 ## Redes Sociais da Curso-R
 

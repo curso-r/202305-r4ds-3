@@ -20,8 +20,9 @@
 
 ## Exemplos de Aula
 
-| Exemplo |
-|:--------|
+| Exemplo                                                                               |
+|:--------------------------------------------------------------------------------------|
+| [01_organizacao.R](https://curso-r.github.io/202305-r4ds-3/exemplos/01_organizacao.R) |
 
 ## Exercícios
 

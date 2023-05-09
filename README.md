@@ -17,6 +17,7 @@
 |:----------------------------------------------------------------------------------------------------|
 | [00_introducao.html](https://curso-r.github.io/202305-r4ds-3/materiais/slides/00_introducao.html)   |
 | [01_organizacao.html](https://curso-r.github.io/202305-r4ds-3/materiais/slides/01_organizacao.html) |
+| [02_faxina.html](https://curso-r.github.io/202305-r4ds-3/materiais/slides/02_faxina.html)           |
 
 ## Exemplos de Aula
 
@@ -37,15 +38,22 @@ Referências extras relacionadas com o conteúdos das aulas, ou materiais
 que comentamos quando tiramos dúvidas (não necessariamente são
 relacionadas com o conteúdo da aula).
 
-| Aula | Tema              | Descrição                                        | Link                                                                         |
-|-----:|:------------------|:-------------------------------------------------|:-----------------------------------------------------------------------------|
-|    1 | Ambiente          | Colinha do RStudio                               | <https://raw.githubusercontent.com/rstudio/cheatsheets/main/rstudio-ide.pdf> |
-|    1 | Ambiente          | Zen do R: capítulo sobre .RData e .Rhistory      | <https://curso-r.github.io/zen-do-r/rdata-rhistory.html>                     |
-|    1 | Ambiente          | Beautiful R: capítulo sobre ambiente             | <https://curso-r.github.io/beautiful-r/environment.html>                     |
-|    1 | Fluxo de trabalho | Zen do R: capítulo sobre Rproj                   | <https://curso-r.github.io/zen-do-r/rproj-dir.html>                          |
-|    1 | Fluxo de trabalho | Beautiful R: capítulo sobre projetos             | <https://curso-r.github.io/beautiful-r/r-projects.html>                      |
-|    1 | Fluxo de trabalho | R for Data Science (2e): capítulo sobre workflow | <https://r4ds.hadley.nz/workflow-scripts.html>                               |
-|    1 | Fluxo de trabalho | R for Data Science (2e): capítulo sobre estilo   | <https://r4ds.hadley.nz/workflow-style.html>                                 |
+| Aula | Tema              | Descrição                                               | Link                                                                         |
+|-----:|:------------------|:--------------------------------------------------------|:-----------------------------------------------------------------------------|
+|    1 | Ambiente          | Colinha do RStudio                                      | <https://raw.githubusercontent.com/rstudio/cheatsheets/main/rstudio-ide.pdf> |
+|    1 | Ambiente          | Zen do R: capítulo sobre .RData e .Rhistory             | <https://curso-r.github.io/zen-do-r/rdata-rhistory.html>                     |
+|    1 | Ambiente          | Beautiful R: capítulo sobre ambiente                    | <https://curso-r.github.io/beautiful-r/environment.html>                     |
+|    1 | Fluxo de trabalho | Zen do R: capítulo sobre Rproj                          | <https://curso-r.github.io/zen-do-r/rproj-dir.html>                          |
+|    1 | Fluxo de trabalho | Beautiful R: capítulo sobre projetos                    | <https://curso-r.github.io/beautiful-r/r-projects.html>                      |
+|    1 | Fluxo de trabalho | R for Data Science (2e): capítulo sobre workflow        | <https://r4ds.hadley.nz/workflow-scripts.html>                               |
+|    1 | Fluxo de trabalho | R for Data Science (2e): capítulo sobre estilo          | <https://r4ds.hadley.nz/workflow-style.html>                                 |
+|    2 | Importação        | Colinha de importação                                   | <https://raw.githubusercontent.com/rstudio/cheatsheets/main/data-import.pdf> |
+|    2 | Importação        | Livro da Curso-R: capítulo sobre readr                  | <https://livro.curso-r.com/5-2-readr.html>                                   |
+|    2 | Importação        | Livro da Curso-R: capítulo sobre readxl                 | <https://livro.curso-r.com/5-3-readxl.html>                                  |
+|    2 | Importação        | R for Data Science (2e): capítulo sobre importação      | <https://r4ds.hadley.nz/data-import.html>                                    |
+|    2 | Importação        | R for Data Science (2e): capítulo sobre planilhas       | <https://r4ds.hadley.nz/spreadsheets.html>                                   |
+|    2 | Valores omissos   | Livro da Curso-R: capítulo sobre valores especiais      | <https://livro.curso-r.com/3-8-valoresEspeciais.html>                        |
+|    2 | Valores omissos   | R for Data Science (2e): capítulo sobre valores omissos | <https://r4ds.hadley.nz/missing-values.html>                                 |
 
 ## Redes Sociais da Curso-R
 

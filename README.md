@@ -18,6 +18,7 @@
 | [00_introducao.html](https://curso-r.github.io/202305-r4ds-3/materiais/slides/00_introducao.html)   |
 | [01_organizacao.html](https://curso-r.github.io/202305-r4ds-3/materiais/slides/01_organizacao.html) |
 | [02_faxina.html](https://curso-r.github.io/202305-r4ds-3/materiais/slides/02_faxina.html)           |
+| [03_bancos.html](https://curso-r.github.io/202305-r4ds-3/materiais/slides/03_bancos.html)           |
 
 ## Exemplos de Aula
 
@@ -55,6 +56,9 @@ relacionadas com o conteúdo da aula).
 |    2 | Importação        | R for Data Science (2e): capítulo sobre planilhas       | <https://r4ds.hadley.nz/spreadsheets.html>                                   |
 |    2 | Valores omissos   | Livro da Curso-R: capítulo sobre valores especiais      | <https://livro.curso-r.com/3-8-valoresEspeciais.html>                        |
 |    2 | Valores omissos   | R for Data Science (2e): capítulo sobre valores omissos | <https://r4ds.hadley.nz/missing-values.html>                                 |
+|    3 | DBI               | R for Data Science (2e): capítulo sobre BDs             | <https://r4ds.hadley.nz/databases.html>                                      |
+|    3 | Junção            | Livro da Curso-R: capítulo sobre dplyr                  | <https://livro.curso-r.com/7-2-dplyr.html>                                   |
+|    3 | Junção            | R for Data Science (2e): capítulo sobre junção          | <https://r4ds.hadley.nz/joins.html>                                          |
 
 ## Redes Sociais da Curso-R
 

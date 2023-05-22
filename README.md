@@ -19,6 +19,7 @@
 | [01_organizacao.html](https://curso-r.github.io/202305-r4ds-3/materiais/slides/01_organizacao.html) |
 | [02_faxina.html](https://curso-r.github.io/202305-r4ds-3/materiais/slides/02_faxina.html)           |
 | [03_bancos.html](https://curso-r.github.io/202305-r4ds-3/materiais/slides/03_bancos.html)           |
+| [04_git_github.html](https://curso-r.github.io/202305-r4ds-3/materiais/slides/04_git_github.html)   |
 
 ## Exemplos de Aula
 
@@ -60,6 +61,11 @@ relacionadas com o conteúdo da aula).
 |    3 | DBI               | R for Data Science (2e): capítulo sobre BDs             | <https://r4ds.hadley.nz/databases.html>                                      |
 |    3 | Junção            | Livro da Curso-R: capítulo sobre dplyr                  | <https://livro.curso-r.com/7-2-dplyr.html>                                   |
 |    3 | Junção            | R for Data Science (2e): capítulo sobre junção          | <https://r4ds.hadley.nz/joins.html>                                          |
+|    4 | Git               | Git Pro                                                 | <https://git-scm.com/book/en/v2>                                             |
+|    4 | Git               | Git Pro em português (incompleto)                       | <https://git-scm.com/book/pt-br/v2>                                          |
+|    4 | Git Hub           | Documentação do GitHub em português                     | <https://docs.github.com/pt>                                                 |
+|    4 | Git e GitHub      | Happy Git and GitHub for the useR                       | <https://happygitwithr.com/index.html>                                       |
+|    4 | Git e GitHub      | Beautiful R: capítulo sobre Git e GitHub (incompleto)   | <https://curso-r.github.io/beautiful-r/git.html>                             |
 
 ## Redes Sociais da Curso-R
 

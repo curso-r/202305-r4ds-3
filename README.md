@@ -28,6 +28,7 @@
 | [01_organizacao.R](https://curso-r.github.io/202305-r4ds-3/exemplos/01_organizacao.R) |
 | [02_faxina.R](https://curso-r.github.io/202305-r4ds-3/exemplos/02_faxina.R)           |
 | [03_bancos.R](https://curso-r.github.io/202305-r4ds-3/exemplos/03_bancos.R)           |
+| [04_git_github.R](https://curso-r.github.io/202305-r4ds-3/exemplos/04_git_github.R)   |
 
 ## Exercícios
 

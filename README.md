@@ -20,6 +20,7 @@
 | [02_faxina.html](https://curso-r.github.io/202305-r4ds-3/materiais/slides/02_faxina.html)           |
 | [03_bancos.html](https://curso-r.github.io/202305-r4ds-3/materiais/slides/03_bancos.html)           |
 | [04_git_github.html](https://curso-r.github.io/202305-r4ds-3/materiais/slides/04_git_github.html)   |
+| [05_pacotes.html](https://curso-r.github.io/202305-r4ds-3/materiais/slides/05_pacotes.html)         |
 
 ## Exemplos de Aula
 
@@ -67,6 +68,10 @@ relacionadas com o conteúdo da aula).
 |    4 | Git Hub           | Documentação do GitHub em português                     | <https://docs.github.com/pt>                                                 |
 |    4 | Git e GitHub      | Happy Git and GitHub for the useR                       | <https://happygitwithr.com/index.html>                                       |
 |    4 | Git e GitHub      | Beautiful R: capítulo sobre Git e GitHub (incompleto)   | <https://curso-r.github.io/beautiful-r/git.html>                             |
+|    5 | Pacotes           | Zen do R: capítulo sobre pacotes                        | <https://curso-r.github.io/zen-do-r/pacotes.html>                            |
+|    5 | Pacotes           | Zen do R: capítulo sobre dependências                   | <https://curso-r.github.io/zen-do-r/funcoes-deps.html>                       |
+|    5 | Pacotes           | Zen do R: capítulo sobre dados                          | <https://curso-r.github.io/zen-do-r/data-data-raw.html>                      |
+|    5 | Pacotes           | R Packages (2e)                                         | <https://r-pkgs.org/>                                                        |
 
 ## Redes Sociais da Curso-R
 

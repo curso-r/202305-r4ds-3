@@ -30,6 +30,7 @@
 | [02_faxina.R](https://curso-r.github.io/202305-r4ds-3/exemplos/02_faxina.R)           |
 | [03_bancos.R](https://curso-r.github.io/202305-r4ds-3/exemplos/03_bancos.R)           |
 | [04_git_github.R](https://curso-r.github.io/202305-r4ds-3/exemplos/04_git_github.R)   |
+| [05_pacotes.R](https://curso-r.github.io/202305-r4ds-3/exemplos/05_pacotes.R)         |
 
 ## Exercícios
 
@@ -72,6 +73,7 @@ relacionadas com o conteúdo da aula).
 |    5 | Pacotes           | Zen do R: capítulo sobre dependências                   | <https://curso-r.github.io/zen-do-r/funcoes-deps.html>                       |
 |    5 | Pacotes           | Zen do R: capítulo sobre dados                          | <https://curso-r.github.io/zen-do-r/data-data-raw.html>                      |
 |    5 | Pacotes           | R Packages (2e)                                         | <https://r-pkgs.org/>                                                        |
+|    5 | Pacotes           | Choose a License                                        | <https://choosealicense.com/licenses/>                                       |
 
 ## Redes Sociais da Curso-R
 

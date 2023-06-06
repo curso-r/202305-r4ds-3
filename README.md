@@ -21,6 +21,7 @@
 | [03_bancos.html](https://curso-r.github.io/202305-r4ds-3/materiais/slides/03_bancos.html)           |
 | [04_git_github.html](https://curso-r.github.io/202305-r4ds-3/materiais/slides/04_git_github.html)   |
 | [05_pacotes.html](https://curso-r.github.io/202305-r4ds-3/materiais/slides/05_pacotes.html)         |
+| [06_integracao.html](https://curso-r.github.io/202305-r4ds-3/materiais/slides/06_integracao.html)   |
 
 ## Exemplos de Aula
 
@@ -74,6 +75,12 @@ relacionadas com o conteúdo da aula).
 |    5 | Pacotes           | Zen do R: capítulo sobre dados                          | <https://curso-r.github.io/zen-do-r/data-data-raw.html>                      |
 |    5 | Pacotes           | R Packages (2e)                                         | <https://r-pkgs.org/>                                                        |
 |    5 | Pacotes           | Choose a License                                        | <https://choosealicense.com/licenses/>                                       |
+|    6 | Integração        | R Packages (2e): capítulo sobre README                  | <https://r-pkgs.org/other-markdown.html>                                     |
+|    6 | Integração        | R Packages (2e): capítulo sobre vignettes               | <https://r-pkgs.org/vignettes.html>                                          |
+|    6 | Integração        | R Packages (2e): capítulo sobre inst/                   | <https://r-pkgs.org/misc.html>                                               |
+|    6 | Integração        | R Packages (2e): capítulo sobre pkgdown                 | <https://r-pkgs.org/website.html>                                            |
+|    6 | Integração        | R Packages (2e): capítulo sobre testthat                | <https://r-pkgs.org/testing-basics.html>                                     |
+|    6 | Integração        | R Packages (2e): capítulo sobre integração contínua     | <https://r-pkgs.org/software-development-practices.html>                     |
 
 ## Redes Sociais da Curso-R
 
